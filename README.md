@@ -1,3 +1,6 @@
-VMTranslator
+# VMTranslator
 ============
-![Alt text](https://lh5.googleusercontent.com/-2dSRTebCkJs/U2UfW7h_4bI/AAAAAAABrMQ/0-gXc5RM85U/w270-h188-no/14+-+1)
+
+Intermediate langauge -> machine code translator for elements of computing
+
+http://www.nand2tetris.org
